@@ -1,1 +1,2 @@
 # odin-recipes
+The goal of the project is to create a website which contains a few recipes. Me making this project is supposed to demonstrate the skills i have acquired so far during The Odin Project. More specifically basic use of Git as well as basic understanding of HTML.

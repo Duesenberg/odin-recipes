@@ -7,10 +7,15 @@
 }
 
 .main {
-    font-size: 42px;
+    font-size: 32px;
 }
 
-p {
+.picture {
+    height: 400px;
+    width: auto;
+}
+
+.link {
     color: black;
     font-style: italic;
 }
